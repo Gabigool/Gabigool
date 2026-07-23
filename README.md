@@ -41,14 +41,7 @@
 
 ### Estadísticas de GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabigool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabigool&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabigool&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabigool&theme=radical)](https://git.io/streak-stats)
 
 ---
 
