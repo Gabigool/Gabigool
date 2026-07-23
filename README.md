@@ -27,15 +27,6 @@
 
 **DevOps / Ciberseguridad:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
----
-
-### Certificaciones
-
-- Cisco Networking Academy — Introducción a la Ciberseguridad
-- Cisco Networking Academy — Seguridad en Terminales (Endpoint Security)
-- EF SET English Certificate — C2 Proficient
-
----
 
 ---
 
