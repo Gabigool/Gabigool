@@ -42,7 +42,6 @@
 ### Estadísticas de GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabigool&theme=radical)](https://git.io/streak-stats)
-![Gabigool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabigool&theme=dark&show_icons=true)
 
 ---
 
