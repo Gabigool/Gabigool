@@ -37,6 +37,21 @@
 
 ---
 
+---
+
+### Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabigool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabigool&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabigool&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-santiago-cely-forero-62160736b)
